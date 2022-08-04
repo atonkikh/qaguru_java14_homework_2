@@ -8,13 +8,13 @@ public class MyTest {
         int day = 1;
         switch (day) {
             case 1:
-                System.out.println("Today is Monday");
+                System.out.println("Today is Sunday");
                 break;
             case 2:
-                System.out.println("Today is Tuesday");
+                System.out.println("Today is Monday");
                 break;
             case 3:
-                System.out.println("Today is Wednesday");
+                System.out.println("Today is Tuesday");
                 break;
         }
     }
